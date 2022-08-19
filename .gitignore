@@ -1,6 +1,6 @@
 /bin/
 
-.classpath
-.settings
-.project
-bin/empresa
+.classpath/
+.settings/
+.project/
+bin/empresa/
